@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nina
-- 👀 I’m interested in Manuala QA Testing and JS
+- 👀 I’m interested in Manual QA Testing and JS
 
 <!---
 NVelkova/NVelkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
